@@ -1,0 +1,7 @@
+- Undefined
+- null
+- boolean
+- string
+- symbol
+- number
+- object
